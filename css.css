@@ -1,0 +1,137 @@
+body{
+	background-color: #242431;
+}
+*{
+	margin: 0;
+	padding: 0;
+}
+nav{
+	width: 100%;
+	height: 100px;
+	background-color: #1E1E27;
+}
+ul li{
+	list-style: none;
+	display: inline-block;
+	float: right;
+}
+a{
+	text-decoration: none;
+	font-size: 14px;
+	font-family: 'Raleway', sans-serif;
+	line-height: 100px;
+	color: #ffffff;
+	padding: 0 20px;
+}
+.title{
+	font-family: 'Secular One', sans-serif;
+	color: #ffffff;
+	line-height: 100px;
+	position: absolute;
+	left: 20px;
+}
+h3{
+	color: #ffffff;
+	font-family: 'Raleway', sans-serif;
+	position: absolute;
+	left: 650px;
+	bottom: 575px;
+}
+h5{
+	color: #ffffff;
+	font-family: 'Raleway', sans-serif;
+	position: absolute;
+	left: 600px;
+	bottom: 550px;
+}
+.backcmd{
+	background-color: #1E1E27;
+	width: 500px;
+	height: 500px;
+	border-radius: 5%;
+	position: absolute;
+	left: 550px;
+	bottom: 150px;
+}
+.Admin1{
+	color: #FECF1A;
+	font-family: 'Raleway', sans-serif;
+}
+.ChefAdmin1{
+	color: #CE1C17;
+	font-family: 'Raleway', sans-serif;
+}
+.Animateur1{
+	color: #376CC7;
+	font-family: 'Raleway', sans-serif;
+}
+.Admin2{
+	color: #FECF1A;
+	font-family: 'Raleway', sans-serif;
+}
+.ChefAdmin2{
+	color: #CE1C17;
+	font-family: 'Raleway', sans-serif;
+	bottom: 535px;
+}
+.ChefAdmin3{
+	color: #CE1C17;
+	font-family: 'Raleway', sans-serif;
+	bottom: 520px;
+}
+a:hover{
+	color: #FE8E21;
+}
+.ChefAdmin4{
+	color: #CE1C17;
+	font-family: 'Raleway', sans-serif;
+	bottom: 505px;
+}
+.ChefAdmin5{
+	color: #CE1C17;
+	font-family: 'Raleway', sans-serif;
+	bottom: 490px;
+}
+.Animateur2{
+	color: #376CC7;
+	font-family: 'Raleway', sans-serif;
+	bottom: 475px;
+}
+.Animateur3{
+	color: #376CC7;
+	font-family: 'Raleway', sans-serif;
+	bottom: 460px;
+}
+.Membre1{
+	color: #ffffff;
+	font-family: 'Raleway', sans-serif;
+}
+.Membre2{
+	bottom: 445px;
+}
+.ChefAdmin6{
+	color: #CE1C17;
+	bottom: 430px;
+}
+.Admin3{
+	color: #FECF1A;
+	bottom: 415px;
+}
+.ChefAdmin7{
+	color: #CE1C17;
+	bottom: 400px;
+}
+.Admin4{
+	color: #FECF1A;
+	bottom: 385px;
+}
+.Membre3{
+	bottom: 370px;
+}
+.cmds{
+	left: 750px;
+	bottom: 600px;
+	padding: 10px;
+	border-radius: 10%;
+	background-color: #242431;
+}
