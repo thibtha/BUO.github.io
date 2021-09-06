@@ -18,7 +18,7 @@ ul li{
 a{
 	text-decoration: none;
 	font-size: 14px;
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	line-height: 100px;
 	color: #ffffff;
 	padding: 0 20px;
@@ -55,28 +55,28 @@ h5{
 }
 .Admin1{
 	color: #FECF1A;
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 }
 .ChefAdmin1{
 	color: #CE1C17;
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 }
 .Animateur1{
 	color: #376CC7;
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 }
 .Admin2{
 	color: #FECF1A;
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 }
 .ChefAdmin2{
 	color: #CE1C17;
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	bottom: 535px;
 }
 .ChefAdmin3{
 	color: #CE1C17;
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	bottom: 520px;
 }
 a:hover{
@@ -84,51 +84,58 @@ a:hover{
 }
 .ChefAdmin4{
 	color: #CE1C17;
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	bottom: 505px;
 }
 .ChefAdmin5{
 	color: #CE1C17;
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	bottom: 490px;
 }
 .Animateur2{
 	color: #376CC7;
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	bottom: 475px;
 }
 .Animateur3{
 	color: #376CC7;
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	bottom: 460px;
 }
 .Membre1{
 	color: #ffffff;
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 }
 .Membre2{
+	font-family: 'Montserrat', sans-serif;
 	bottom: 445px;
 }
 .ChefAdmin6{
+	font-family: 'Montserrat', sans-serif;
 	color: #CE1C17;
 	bottom: 430px;
 }
 .Admin3{
+	font-family: 'Montserrat', sans-serif;
 	color: #FECF1A;
 	bottom: 415px;
 }
 .ChefAdmin7{
+	font-family: 'Montserrat', sans-serif;
 	color: #CE1C17;
 	bottom: 400px;
 }
 .Admin4{
+	font-family: 'Montserrat', sans-serif;
 	color: #FECF1A;
 	bottom: 385px;
 }
 .Membre3{
+	font-family: 'Montserrat', sans-serif;
 	bottom: 370px;
 }
 .cmds{
+	font-family: 'Montserrat', sans-serif;
 	left: 750px;
 	bottom: 600px;
 	padding: 10px;

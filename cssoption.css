@@ -16,15 +16,16 @@ a:hover{
 a{
 	text-decoration: none;
 	font-size: 14px;
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	line-height: 100px;
+	float: right;
 	color: #ffffff;
 	padding: 0 20px;
 }
 .title{
 	font-family: 'Secular One', sans-serif;
 	color: #ffffff;
-	line-height: 100px;
+	line-height: 70px;
 	position: absolute;
 	left: 20px;
 }
@@ -63,9 +64,9 @@ a{
 	position: absolute;
 	top: 20px;
 	left: 20px;
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	color: #ffffff;
-	font-size: 30px;
+	font-size: 29px;
 }
 .kb{
 	position: absolute;
@@ -92,7 +93,7 @@ a{
 	position: absolute;
 	top: 80px;
 	left: 20px;
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	color: #ffffff;
 	font-size: 27px;
 }
@@ -128,7 +129,7 @@ a{
 	position: absolute;
 	top: 140px;
 	left: 12.5px;
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	color: #ffffff;
-	font-size: 27px;
+	font-size: 26px;
 }
